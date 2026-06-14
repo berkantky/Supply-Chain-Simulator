@@ -1,0 +1,1 @@
+Rohdaten / Exporte ablegen. Beispiel: CSV- oder Excel-Exports, unverarbeitete Logs.

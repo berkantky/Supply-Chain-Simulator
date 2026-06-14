@@ -1,0 +1,7 @@
+Produkt,Setupzeit,Produktionszeit,Maximum number of Kanbans per Pitch,Zeitverlust durch Schichtrest,Zeitverlust durch Pitch pro Produkt,Zeitverlust Gesamt
+Antriebswelle 5,8,"30,5",1,8,"25,50","33,50"
+Antriebswelle 6,8,"30,5",1,8,"27,00","35,00"
+Antriebswelle 7,8,"30,5",1,8,"15,00","23,00"
+Antriebswelle 8,8,"30,5",1,8,"22,50","30,50"
+Summe,,"Initial Length of Pitch
+",32,,"90,00","122,00"

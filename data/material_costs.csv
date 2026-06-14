@@ -1,0 +1,12 @@
+material_id,material_name,order_cost_eur,holding_cost_eur_per_unit,service_level,unit_cost_eur,lead_time_days
+RM1,Wellrohlinge,150,0.05,0.95,45.00,10
+RM2,Aluminiumblock,200,0.10,0.95,120.00,15
+RM3,Dichtungsringe,80,0.001,0.95,2.50,2
+RM4,Schrauben,60,0.0005,0.95,0.15,2
+RM5,Lager,120,0.04,0.95,35.00,5
+RM6,Zahnräder,180,0.08,0.95,85.00,5
+SF2,Betriebsgehäuse,0,0.00,0.95,120.00,0
+SF1_5,Antriebswelle (5-Gang),0,0.00,0.95,610.00,0
+SF1_6,Antriebswelle (6-Gang),0,0.00,0.95,610.00,0
+SF1_7,Antriebswelle (7-Gang),0,0.00,0.95,610.00,0
+SF1_8,Antriebswelle (8-Gang),0,0.00,0.95,610.00,0

@@ -1,0 +1,9 @@
+{
+    "Pufferzonen": [
+        ["Ebene", "Beschreibung", "RM1", "RM2", "5- SF2", "6-SF2", "7-SF2", "8-SF2", "CT5- FG1", "CT6-FG1", "CT7-FG1", "TT6-FG1", "TT7-FG2", "TT8-FG3"],
+        ["Item", "Name der Komponente", "Wellenrohling", "Aluminiumblock", "Antiebswelle 5", "Antiebswelle 6", "Antiebswelle 7", "Antiebswelle 8", "Autogetriebe 5", "Autogetriebe 6", "Autogetriebe 7", "LKW-Getriebe 6", "LKW-Getriebe 7", "LKW-Getriebe 8"],
+        ["Green Zone [pcs]", "MAX(Term1;Term2;Term3)", 143.0, 178.0, 27.0, 28.0, 16.0, 2.0, 18.0, 4.0, 5.0, 16.0, 6.0, 1.0],
+        ["Total Red Zone [pcs]", "Red Zone Base + Red Zone Safety", 214.0, 303.0, 40.0, 42.0, 24.0, 3.0, 23.0, 5.0, 7.0, 20.0, 8.0, 2.0],
+        ["Yellow Zone [pcs]", "DLT x ADU", 475.0, 712.0, 89.0, 93.0, 52.0, 5.0, 36.0, 7.0, 10.0, 31.0, 12.0, 2.0]
+    ]
+}

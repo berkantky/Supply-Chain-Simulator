@@ -1,0 +1,1 @@
+Exportiere hier Plotly-Grafiken als PNG/HTML/JSON.

@@ -1,0 +1,22 @@
+Ebene,Beschreibung,RM1,RM2,RM3,RM4,5-SF2,6-SF2,7-SF2,8-SF2,CT5,CT6,CT7,TT6,TT7,TT8
+Item,Name der Komponente,Wellenrohling,Aluminiumblock,Zahnräder,Lager,Antiebswelle 5,Antiebswelle 6,Antiebswelle 7,Antiebswelle 8,Autogetriebe 5,Autogetriebe 6,Autogetriebe 7,LKW-Getriebe 6,LKW-Getriebe 7,LKW-Getriebe 8
+Kategorie,RM / FG,RM,RM,RM,RM,SF,SF,SF,SF,FG,FG,FG,FG,FG,FG
+DLT [AT oder min],Decoupled Lead Time,"10,0","15,0","5,0","5,0","5,0","5,0","5,0","5,0","2,0","2,0","2,0","2,0","2,0","2,0"
+Lead Time Category,Long / Medium / Short,Long,Long,Long,Long,Long,Long,Long,Long,Medium,Medium,Medium,Medium,Medium,Medium
+LTF,Lead Time Factor,"0,3","0,3","0,3","0,3","0,3","0,3","0,3","0,3","0,5","0,5","0,5","0,5","0,5","0,5"
+Variability Category,Low / Med / High,Medium,High,Medium ,Medium ,Medium ,Medium ,Medium ,Medium ,Low,Low,Low,Low,Low,Low
+VF,Variability Factor,"0,5","0,7","0,5","0,5","0,5","0,5","0,5","0,5","0,3","0,3","0,3","0,3","0,3","0,3"
+ADU [pcs/day],Average Daily Usage,"44,0","44,0","258,0","176,0","17,0","18,0","10,0","1,0","17,0","4,0","5,0","14,0","6,0","1,0"
+Desired Repl. Interval [AT],gewünschter Bestellzyklus,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+MOQ [pcs],Mindestbestellmenge,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+Rechenschritte,, , , , , , , , , , , , , , 
+Term 1: MOQ,,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+Term 2: Interval × ADU,Interval × ADU,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+Term 3: LTF × ADU × DLT,LTF × ADU × DLT,"132,0","165,0","387,0","264,0","25,5","27,0","15,0","1,5","17,0","4,0","5,0","14,0","6,0","1,0"
+Green Zone [pcs],MAX(Term1;Term2;Term3),"132,0","165,0","387,0","264,0","26,0","27,0","15,0","2,0","17,0","4,0","5,0","15,0","6,0","1,0"
+Red Base [pcs],LTF x ADU x DLT,"132,0","165,0","387,0","264,0","25,5","27,0","15,0","1,5","17,0","4,0","5,0","14,0","6,0","1,0"
+Red Safety [pcs],Red Zone Base x Variability Factor,"66,0","115,5","193,5","132,0","12,8","13,5","7,5","0,8","5,1","1,2","1,5","4,2","1,8","0,3"
+Total Red Zone [pcs],Red Zone Base + Red Zone Safety,"198,0","281,0","581,0","396,0","39,0","41,0","23,0","3,0","23,0","6,0","7,0","19,0","8,0","2,0"
+Yellow Zone [pcs],DLT x ADU,"440,0","660,0","1290,0","880,0","85,0","90,0","50,0","5,0","34,0","8,0","10,0","29,0","12,0","2,0"
+ToY (Reorder point),Yellow Zone + Total Red Zone,"638,0","941,0","1871,0","1276,0","124,0","131,0","73,0","8,0","57,0","14,0","17,0","48,0","20,0","4,0"
+Total Buffer [pcs],Red + Yellow + Green,"770,0","1106,0","2258,0","1540,0","150,0","158,0","88,0","10,0","74,0","18,0","22,0","63,0","26,0","5,0"

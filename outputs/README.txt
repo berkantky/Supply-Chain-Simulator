@@ -1,0 +1,1 @@
+Outputs werden hier abgelegt: Graphen in `figures/` und Reports in `reports/`.

@@ -1,0 +1,7 @@
+product_id,product_name,product_type,unit_price_eur
+CT5,Car Transmission 5-Speed,car,1000
+CT6,Car Transmission 6-Speed,car,1500
+CT7,Car Transmission 7-Speed,car,3000
+TT6,Truck Transmission 6-Speed,truck,14000
+TT7,Truck Transmission 7-Speed,truck,18000
+TT8,Truck Transmission 8-Speed,truck,25000

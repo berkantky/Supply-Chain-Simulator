@@ -1,0 +1,49 @@
+Product,Component,Quantity
+CT5,Lager,4
+CT5,Zahnräder,5
+CT5,Wellrohlinge,1
+CT5,Aluminiumblock,1
+CT5,Betriebsgehäuse,1
+CT5,Antriebswelle (5-Gang),1
+CT5,Dichtungsringe,6
+CT5,Schrauben,12
+CT6,Lager,4
+CT6,Zahnräder,6
+CT6,Wellrohlinge,1
+CT6,Aluminiumblock,1
+CT6,Betriebsgehäuse,1
+CT6,Antriebswelle (6-Gang),1
+CT6,Dichtungsringe,7
+CT6,Schrauben,15
+CT7,Lager,4
+CT7,Zahnräder,7
+CT7,Wellrohlinge,1
+CT7,Aluminiumblock,1
+CT7,Betriebsgehäuse,1
+CT7,Antriebswelle (7-Gang),1
+CT7,Dichtungsringe,4
+CT7,Schrauben,18
+TT6,Lager,4
+TT6,Zahnräder,6
+TT6,Wellrohlinge,1
+TT6,Aluminiumblock,1
+TT6,Betriebsgehäuse,1
+TT6,Antriebswelle (6-Gang),1
+TT6,Dichtungsringe,8
+TT6,Schrauben,20
+TT7,Lager,4
+TT7,Zahnräder,7
+TT7,Wellrohlinge,1
+TT7,Aluminiumblock,1
+TT7,Betriebsgehäuse,1
+TT7,Antriebswelle (7-Gang),1
+TT7,Dichtungsringe,12
+TT7,Schrauben,25
+TT8,Lager,4
+TT8,Zahnräder,8
+TT8,Wellrohlinge,1
+TT8,Aluminiumblock,1
+TT8,Betriebsgehäuse,1
+TT8,Antriebswelle (8-Gang),1
+TT8,Dichtungsringe,14
+TT8,Schrauben,30
